@@ -86,6 +86,34 @@ a{
 }
 
 .about{
-    height: 700px;
-    background-color: #2A4B68;
+    height: 400px;
+    background-color: lightgrey;
+}
+
+.ab{
+    text-align: center;
+    padding-top: 40px;
+}
+.para{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.work{
+    height: 400px;
+    background-color: antiquewhite;
+    position: absolute;
+    top: 954px;
+    left: 0px;
+}
+.sample{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+.wrk{
+    text-align: center;
+    margin-top: 20px;
 }
