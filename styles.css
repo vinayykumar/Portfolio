@@ -1,0 +1,28 @@
+/* body{
+    margin: 0;
+    padding: 0;
+} */
+
+body{
+    margin-top: 0px;
+}
+.navbar{
+    background-color: black;
+    border-radius: 4px;
+}
+
+.navbar ul{
+    overflow: auto;
+}
+
+.navbar li{
+    float: left;
+    list-style:none;
+    margin: 13px 20px;
+}
+
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+}
