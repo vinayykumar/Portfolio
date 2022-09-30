@@ -23,6 +23,7 @@
     list-style: none;
     display: flex;
     gap: 25px;
+    margin-right: 20px;
 }
 /* #toggler,
 .navbar label{
@@ -49,11 +50,42 @@
     cursor: pointer;
  }
 }
-a:hover{
-    background-color: lightgrey;
+a{
+    font-weight: 500;
 }
-
 .intro{
     height: 500px;
     background-color: #E3F3F4;
+}
+
+.hello{
+    position: absolute;
+    top: 130px;
+    left: 150px;
+    font-size: 40px;
+}
+
+.name{
+    position: absolute;
+    top: 180px;
+    left: 150px;
+    font-size: 40px;
+}
+
+.work{
+    position: absolute;
+    top: 250px;
+    left: 150px;
+    font-size: 20px;
+}
+
+.illu{
+    position: absolute;
+    top: 150px;
+    right: 150px;
+}
+
+.about{
+    height: 700px;
+    background-color: #2A4B68;
 }
